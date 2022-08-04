@@ -1,0 +1,3 @@
+int test_calculette() {
+     return (1+5)*(36+2)*4;
+}

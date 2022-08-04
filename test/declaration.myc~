@@ -1,0 +1,8 @@
+int test_declaration() {
+    int x,y,z;
+    x = 2;
+    y = 3;
+    z = x + y;
+    z = z + 2;
+    return z;
+}

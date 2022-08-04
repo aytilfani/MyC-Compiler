@@ -1,0 +1,12 @@
+int main() {
+    int x,y,z;
+    x = 1;
+    y = 1;
+    z = 1;
+    while( x < 10 ) {
+    	   while( y < 10 ) {
+	   	  z = z + 1;
+	   }
+    }
+    return z;
+}
