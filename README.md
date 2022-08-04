@@ -20,3 +20,5 @@ Pour compiler un fichier: ./compil.sh <mon_fichier>.myc (l'extension doit être 
 Un fichier out.c et un exécutable out sont générés.
 Le répertoire test contient des tests pour les différentes parties pour exécuter un test ./compil.sh /test/<fichier_test>.myc
 
+Auteurs:
+Aymen Tilfani - Hedi Gassara
